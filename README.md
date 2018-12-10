@@ -83,8 +83,6 @@ https://github.com/OzRagwort/RagwortCrypto/blob/master/com/main/cryp_test.java
 
 
 ## 개발한 사람
-부족한 점이 많은 라이브러리입니다. 소스코드나 리드미의 부족한점 또는 이런 기능이 있었으면 좋겠다 하는 등의 조언은 아래로 연락해주세요!
 
 장원영 : qmamzm0123@naver.com
 
-제 첫 github 게시물 리드미 읽어주셔서 감사합니다 :)
